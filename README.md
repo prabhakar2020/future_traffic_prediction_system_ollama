@@ -32,3 +32,6 @@ python3 -m venv .venv
 source .venv/bin/activate
 5. Install Dependencies
 pip install -r requirements.txt
+
+
+<img width="100%" height="100%" alt="image" src="https://github.com/user-attachments/assets/c9aa5b2c-8d04-4784-80ce-6c234c953063" />
